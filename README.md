@@ -14,9 +14,8 @@ DPME.py
    3. Moist Static Energy              
    4. Equivalent Potential Temperature 
 
-   Inputdata format should be CSV file. Output figures are jpg file format.
-   Input Data should be prepared by users; kadai1_1.csv, kada1_2.csv are input-csv files. 
-   
+   Inputdata format should be CSV file. Output figures are jpg file format. \
+   Input Data should be prepared by users; kadai1_1.csv, kada1_2.csv are input-csv files. \ 
    Input Data is Japan Meteorological Agency (JMA)  Sonde Data which are majored by 9AM & 3PM at Japan Standard Time 
    at several points below. 
     
