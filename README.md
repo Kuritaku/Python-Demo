@@ -18,5 +18,6 @@ DPME.py
    at several points below.
     
     ~ Observation Cities ~ oredered by nothern(latitude) points
+    
     Wakkanai , Sapporo, Kushiro, Akita, Wajima, Tateno(JMA Meteorological Research Institute), Hachijyo island, Matsue, Shionomisaki
     Fukuoka, Kagoshima, Naze, Ishigaki island, Minami Daito Island, Chichi Island Minami Tori Island, Antaractic Showa Station
